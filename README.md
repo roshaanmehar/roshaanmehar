@@ -1,5 +1,1 @@
-<h1 style="text-align: center;">
-  <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Roshaan+Ali+Mehar" alt="Title GitHub Readme" />
-  </a>
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&weight=600&size=30&duration=4000&pause=1000&color=FF0000&width=435&lines=%24+whoami;Roshaan+Ali+Mehar)](https://git.io/typing-svg)
