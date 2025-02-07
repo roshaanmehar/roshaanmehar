@@ -10,3 +10,8 @@
     <img src="https://skillicons.dev/icons?i=java,kotlin,maven,gradle,python,php,laravel,go,nodejs,nuxt,express,prisma,vite,pug,html,css,sass,js,ts,vue,pinia,svelte,vscode,cs,nginx,unity,electron&perline=9" />
   </a>
 </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roshaanmehar/roshaanmehar/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roshaanmehar/roshaanmeharoutput/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/roshaanmehar/roshaanmehar/output/github-snake.svg" />
+</picture>
