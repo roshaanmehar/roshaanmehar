@@ -9,18 +9,15 @@
 </h1>
 
 <!-- Table layout without borders -->
-<table border="0">
-  <tr>
-    <td valign="top">
+
       <p>
         I’m a problem-solving enthusiast currently pursuing a BSc in Computer Science at the University of Hull. 
         My love for coding began with HTML, CSS, and PHP, then grew when I tackled CS50, C, and data structures. 
         Afterward, I explored the MERN stack and even participated in NASA’s Space Apps Challenge, before discovering 
         my passion for web scraping. I’m always eager to tackle new tech challenges—feel free to reach out!
       </p>
-    </td>
-  </tr>
-</table>
+    
+  
 
 <!-- Skill Icons -->
 <p align="center">
