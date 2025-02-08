@@ -11,10 +11,7 @@
 <!-- Table layout without borders -->
 
       <p>
-        I’m a problem-solving enthusiast currently pursuing a BSc in Computer Science at the University of Hull. 
-        My love for coding began with HTML, CSS, and PHP, then grew when I tackled CS50, C, and data structures. 
-        Afterward, I explored the MERN stack and even participated in NASA’s Space Apps Challenge, before discovering 
-        my passion for web scraping. I’m always eager to tackle new tech challenges—feel free to reach out!
+        I’m a problem-solving enthusiast currently pursuing a BSc in Computer Science at the University of Hull.My love for coding began with HTML, CSS, and PHP, then grew when I tackled CS50, C, and data structures. Afterward, I explored the MERN stack and even participated in NASA’s Space Apps Challenge, before discovering my passion for web scraping. I’m always eager to tackle new tech challenges—feel free to reach out!
       </p>
     
   
@@ -22,7 +19,7 @@
 <!-- Skill Icons -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,aws,bootstrap,c,cpp,docker,express,fastapi,flutter,git,github,html,js,kali,linux,materialui,mongodb,mysql,nextjs,nodejs,npm,php,postman,py,react,sqlite,selenium,tailwind,ts,vercel,vscode" />
+    <img src="https://skillicons.dev/icons?i=angular,aws,bootstrap,c,cpp,docker,express,fastapi,flutter,git,github,html,js,kali,linux,materialui,mongodb,mysql,nextjs,nodejs,npm,php,postman,py,react,sqlite,selenium,tailwind,ts,vercel" />
   </a>
 </p>
 
