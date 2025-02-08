@@ -20,7 +20,7 @@
   
 
 <!-- Skill Icons -->
-<p align:left >Tech Stack</p>
+<h4 align:left >Tech Stack</h4>
   <p align:center>
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,aws,bootstrap,c,cpp,docker,express,fastapi,flutter,git,github,html,js,kali,linux,materialui,mongodb,mysql,nextjs,nodejs,npm,php,postman,py,react,sqlite,selenium,tailwind,ts,vercel" />
