@@ -11,10 +11,6 @@
 <!-- Table layout without borders -->
 <table border="0">
   <tr>
-    <!-- Left Column: Image -->
-    
-    
-    <!-- Right Column: Intro Text -->
     <td valign="top">
       <p>
         I’m a problem-solving enthusiast currently pursuing a BSc in Computer Science at the University of Hull. 
