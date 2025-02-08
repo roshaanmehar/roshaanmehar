@@ -1,3 +1,11 @@
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  p {
+    font-family: 'Roboto', sans-serif;
+  }
+</style>
+
+
 <h1>
   <!-- Typing effect -->
   <a href="https://git.io/typing-svg">
@@ -9,7 +17,7 @@
 </h1>
 
 <!-- Simply use a paragraph or div for multi-line text -->
-<p>
+<p >
   I’m a problem-solving enthusiast currently pursuing a BSc in Computer Science at the University of Hull. 
   My love for coding began with HTML, CSS, and PHP, then grew when I tackled CS50, C, and data structures. 
   Afterward, I explored the MERN stack and even participated in NASA’s Space Apps Challenge, before discovering 
