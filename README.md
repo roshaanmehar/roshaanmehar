@@ -29,7 +29,7 @@
 <!-- Skill Icons -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,aws,bootstrap,c,cpp,docker,express,fastapi,flutter,git,github,html,js,kali,linux,materialui,mongodb,mysql,nextjs,nodejs,npm,php,postman,py,react,sqlite,selenium,tailwind,ts,vercel,vscode&perline=12" />
+    <img src="https://skillicons.dev/icons?i=angular,aws,bootstrap,c,cpp,docker,express,fastapi,flutter,git,github,html,js,kali,linux,materialui,mongodb,mysql,nextjs,nodejs,npm,php,postman,py,react,sqlite,selenium,tailwind,ts,vercel,vscode" />
   </a>
 </p>
 
