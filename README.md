@@ -28,11 +28,13 @@
   </p>
 
 <!-- Snake Animation -->
-<picture>
+<div align="center">
+  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roshaanmehar/roshaanmehar/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roshaanmehar/roshaanmehar/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/roshaanmehar/roshaanmehar/output/github-snake.svg" />
 </picture>
+</div>
 
 <h2>Connect with me!</h2>
 <a href="https://www.instagram.com/roshaan.alii/" target="_blank">
