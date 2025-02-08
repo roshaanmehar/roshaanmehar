@@ -5,23 +5,27 @@
   </a>
 </h1>
 
-<!-- Two-column layout: image on the left, intro text on the right -->
 <table>
   <tr>
-    <!-- Left Column: Image -->
-    <td>
+    <!-- Left Column (image), fix to 40% width -->
+    <td width="40%" valign="top">
       <a href="https://github.com/roshaanmehar/roshaanmehar">
         <picture>
           <!-- Dark Mode Image -->
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roshaanmehar/roshaanmehar/main/cdb6ffdf-1f0f-46f8-8f1f-817baf69fe92.png" />
           <!-- Light Mode Image -->
-          <img alt="Roshaan's GitHub Profile Image" src="https://raw.githubusercontent.com/roshaanmehar/roshaanmehar/main/1922bea3-aa79-463e-96a0-7a7a930f7deb.png" />
+          <img 
+            alt="Roshaan's GitHub Profile Image" 
+            src="https://raw.githubusercontent.com/roshaanmehar/roshaanmehar/main/1922bea3-aa79-463e-96a0-7a7a930f7deb.png" 
+            width="300" 
+            style="max-width: 100%;" 
+          />
         </picture>
       </a>
     </td>
     
-    <!-- Right Column: Intro Text -->
-    <td style="vertical-align: top; padding-left: 20px;">
+    <!-- Right Column (text), fix to 60% width -->
+    <td width="60%" valign="top" style="padding-left: 20px;">
       <p>
         I’m a problem-solving enthusiast currently pursuing a BSc in Computer Science at the University of Hull. 
         My love for coding began with HTML, CSS, and PHP, then grew when I tackled CS50, C, and data structures. 
