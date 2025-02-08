@@ -11,7 +11,6 @@
       <img 
         alt="Roshaan's GitHub Profile Image"
         src="https://raw.githubusercontent.com/roshaanmehar/roshaanmehar/main/1922bea3-aa79-463e-96a0-7a7a930f7deb.png"
-        width="300"
         style="max-width: 40%;"
       />
     </picture>
