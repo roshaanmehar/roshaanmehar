@@ -5,6 +5,7 @@
       src="https://readme-typing-svg.demolab.com?font=roboto&weight=600&size=30&duration=4000&pause=200&color=FF0000&multiline=true&width=435&height=100&lines=%24+whoami;Roshaan+Ali+Mehar" 
       alt="Readme Name" 
     />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=ff0000&lines=web+scraper;frontend+developer;backend+developer;problem+solver;book+reader;chess+player;" alt="Typing SVG" />
   </a>
 </h1>
 
