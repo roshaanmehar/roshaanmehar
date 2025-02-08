@@ -12,24 +12,7 @@
 <table border="0">
   <tr>
     <!-- Left Column: Image -->
-    <td valign="top" style="width: 220px; padding-right: 20px;">
-      <a href="https://github.com/roshaanmehar/roshaanmehar">
-        <picture>
-          <!-- Dark Mode Image -->
-          <source 
-            media="(prefers-color-scheme: dark)" 
-            srcset="https://raw.githubusercontent.com/roshaanmehar/roshaanmehar/main/cdb6ffdf-1f0f-46f8-8f1f-817baf69fe92.png" 
-          />
-          <!-- Light Mode Image -->
-          <img 
-            alt="Roshaan's GitHub Profile Image"
-            src="https://raw.githubusercontent.com/roshaanmehar/roshaanmehar/main/1922bea3-aa79-463e-96a0-7a7a930f7deb.png"
-            width="200"
-            style="max-width: 100%;"
-          />
-        </picture>
-      </a>
-    </td>
+    
     
     <!-- Right Column: Intro Text -->
     <td valign="top">
@@ -46,7 +29,7 @@
 <!-- Skill Icons -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,maven,gradle,python,php,laravel,go,nodejs,nuxt,express,prisma,vite,pug,html,css,sass,js,ts,vue,pinia,svelte,vscode,cs,nginx,unity,electron&perline=9" />
+    <img src="https://skillicons.dev/icons?i=angular,aws,bootstrap,c,cpp,docker,express,fastapi,flutter,git,github,html,js,kali,linux,materialui,mongodb,mysql,nextjs,nodejs,npm,php,postman,py,react,sqlite,selenium,tailwind,ts,vercel,vscode&perline=12" />
   </a>
 </p>
 
