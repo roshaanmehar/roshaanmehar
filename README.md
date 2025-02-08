@@ -33,3 +33,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roshaanmehar/roshaanmehar/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/roshaanmehar/roshaanmehar/output/github-snake.svg" />
 </picture>
+
+<h2>Connect with me!</h2>
+<a href="https://www.instagram.com/roshaan.alii/" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+        </a>
+        <a href="https://www.linkedin.com/in/roshaan-ali/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
