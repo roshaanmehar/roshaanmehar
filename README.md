@@ -2,15 +2,9 @@
 
 ### Hi, I'm
 
-# Roshaan Ali Mehar
+# Roshaan
 
-<img src="https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=500&size=22&duration=3200&pause=800&color=0ea5e9&center=true&width=500&lines=Full-stack+developer;Web+scraper+%26+automation;Problem+solver;CS+%40+University+of+Hull" alt="Typing roles" />
-
-**Hull, UK**
-
-<br/>
-
-[LinkedIn](https://www.linkedin.com/in/roshaan-ali/) · [Email](mailto:roshaanalimeher@gmail.com) · [Instagram](https://www.instagram.com/roshaan.alii/) · [WhatsApp](https://wa.me/+4407398090615)
+<img src="https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=500&size=22&duration=3200&pause=800&color=0ea5e9&center=true&width=520&lines=CS+%40+UoH%2C+UK;Problem+solver;AI+engineer;Automation+specialist;Web+scraping;Full+stack+developer" alt="Typing roles" />
 
 </div>
 
@@ -20,10 +14,12 @@
 
 ## About me
 
-I'm a developer who likes turning messy problems into clear solutions. I started with web basics (HTML, CSS, PHP), then CS50 and data structures, then the MERN stack and NASA Space Apps. These days I focus on **full-stack apps** and **data/automation**—scraping, OpenCV, APIs—and I've built things from an image-based Rubik's cube solver to AI product matching and a retro time tracker.
+I build systems that connect data, APIs, and people. I've built custom scrapers (including browser automation with Selenium), real-time lead dashboards backed by databases like Supabase, and pipelines that tie together AI emailing, AI calling, and schedulers. I've integrated full CRM ecosystems (APIs, webhooks, sync) and built document analyzers where you upload a file and query it with AI, plus agent-style workflows that fetch and send leads, handle email via provider APIs, and keep CRMs updated—all in one flow. I care about automation that actually saves time and reduces busywork.
 
-- **Stack:** Next.js, React, Node, Express, Python (Flask/FastAPI), MongoDB
-- **Interests:** Web scraping, computer vision, clean APIs, readable code
+- **Interests:** Web scraping, AI agents, MCP, automation—using code and 0s and 1s to make life easier.
+- **Hobbies:** Chess, solving the Rubik's cube, reading philosophy and history, and a bit of fiction.
+
+*Ideas that can help you stand out: a one-line "what I'm building toward" (e.g. "making CRMs talk to AI"), a "currently learning" line, or a short take on why you build (e.g. "I like systems that work while you sleep"). You can drop one of these in above or in a separate line.*
 
 <br/>
 
@@ -36,6 +32,9 @@ I'm a developer who likes turning messy problems into clear solutions. I started
 
 - **[ScraperProductAnalyser](https://github.com/roshaanmehar/ScraperProductAnalyser)** — Product catalog and competitive intelligence: AI product/image matching, scraping, vector DB, dashboards.  
   `Next.js 14` `TypeScript` `Tailwind` `MongoDB` `Docker`
+
+- **[Geoscraper](https://geoscraper.io)** — Geographic scraping and data pipeline.  
+  *Live at [geoscraper.io](https://geoscraper.io)*
 
 - **[Work-Hours-Tracker](https://github.com/roshaanmehar/Work-Hours-Tracker)** — Retro pixel-art time tracking: clock in/out, breaks, analytics, heatmaps, expenses, PIN auth.  
   `Next.js 14` `TypeScript` `Supabase`
@@ -51,9 +50,7 @@ I'm a developer who likes turning messy problems into clear solutions. I started
 
 <div align="center">
 
-**Languages** · **Frameworks** · **Data** · **Tools**
-
-<img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,express,mongodb,mysql,docker,git,github,html,css,tailwind" alt="Tech" />
+<img src="https://skillicons.dev/icons?i=angular,aws,bootstrap,c,cpp,docker,express,fastapi,flutter,git,github,html,js,kali,linux,materialui,mongodb,mysql,nextjs,nodejs,npm,php,postman,py,react,sqlite,selenium,tailwind,ts,vercel" alt="Tech" />
 
 </div>
 
@@ -61,40 +58,21 @@ I'm a developer who likes turning messy problems into clear solutions. I started
 
 ---
 
-## Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=roshaanmehar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="165" alt="Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=roshaanmehar&theme=github-dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="165" alt="Streak" />
+<img src="https://raw.githubusercontent.com/roshaanmehar/roshaanmehar/main/game.gif" alt="Contribution game" width="100%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshaanmehar&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top languages" />
-
-</div>
-
+<details>
+<summary><b>Click to see another version</b></summary>
 <br/>
-
----
-
-## Profile fun
-
-**Contribution snake** (eats your GitHub activity)
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roshaanmehar/roshaanmehar/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roshaanmehar/roshaanmehar/output/github-snake.svg" />
-    <img alt="Snake" src="https://raw.githubusercontent.com/roshaanmehar/roshaanmehar/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/roshaanmehar/roshaanmehar/output/github-snake.svg" alt="Contribution snake" width="100%" />
   </picture>
+</details>
+
 </div>
-
-**Space shooter** (contributions turned into a game)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/roshaanmehar/roshaanmehar/main/game.gif" alt="Space shooter" width="100%" />
-</div>
-
-<sub>Game by [gh-space-shooter](https://github.com/czl9707/gh-space-shooter)</sub>
 
 <br/>
 
