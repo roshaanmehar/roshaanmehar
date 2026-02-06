@@ -1,0 +1,26 @@
+# Generates the contribution graph space-shooter GIF and commits it to the repo.
+# Run daily and on manual trigger. See SETUP.md for full instructions.
+
+name: Update Space Shooter Game
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # Daily at midnight UTC
+  workflow_dispatch:       # Manual run from Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-game:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate space shooter GIF
+        uses: czl9707/gh-space-shooter@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: 'game.gif'
+          strategy: 'random'
