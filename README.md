@@ -19,8 +19,6 @@ I build systems that connect data, APIs, and people. I've built custom scrapers 
 - **Interests:** Web scraping, AI agents, MCP, automation—using code and 0s and 1s to make life easier.
 - **Hobbies:** Chess, solving the Rubik's cube, reading philosophy and history, and a bit of fiction.
 
-*Ideas that can help you stand out: a one-line "what I'm building toward" (e.g. "making CRMs talk to AI"), a "currently learning" line, or a short take on why you build (e.g. "I like systems that work while you sleep"). You can drop one of these in above or in a separate line.*
-
 <br/>
 
 ---
@@ -52,6 +50,8 @@ I build systems that connect data, APIs, and people. I've built custom scrapers 
 
 <img src="https://skillicons.dev/icons?i=angular,aws,bootstrap,c,cpp,docker,express,fastapi,flutter,git,github,html,js,kali,linux,materialui,mongodb,mysql,nextjs,nodejs,npm,php,postman,py,react,sqlite,selenium,tailwind,ts,vercel" alt="Tech" />
 
+<img src="https://skillicons.dev/icons?i=vue,svelte,nuxt,graphql,redis,supabase,prisma,threejs,figma,vscode,bash,go,rust,django,azure,gcp,cloudflare,postgres,nginx,jenkins,kubernetes" alt="Tech more" />
+
 </div>
 
 <br/>
@@ -60,15 +60,17 @@ I build systems that connect data, APIs, and people. I've built custom scrapers 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/roshaanmehar/roshaanmehar/main/game.gif" alt="Contribution game" width="100%" />
+<img src="https://raw.githubusercontent.com/roshaanmehar/roshaanmehar/main/game.gif" alt="Contribution graph" width="100%" />
+
+<br/>
 
 <details>
-<summary><b>Click to see another version</b></summary>
+<summary><b>▶ Click to see another version</b></summary>
 <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roshaanmehar/roshaanmehar/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roshaanmehar/roshaanmehar/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/roshaanmehar/roshaanmehar/output/github-snake.svg" alt="Contribution snake" width="100%" />
+    <img src="https://raw.githubusercontent.com/roshaanmehar/roshaanmehar/output/github-snake.svg" alt="Snake version" width="100%" />
   </picture>
 </details>
 
